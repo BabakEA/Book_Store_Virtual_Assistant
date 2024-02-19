@@ -27,8 +27,14 @@ The Book Store Chatbot Prototype utilizes a combination of cutting-edge technolo
 
 ### GUI Development with Streamlit
 
-Streamlit is utilized to develop a user-friendly graphical interface that enables seamless communication with the chatbot. Through Streamlit's intuitive design and interactive elements, users can initiate conversations, input queries, and receive responses in real-time.
+Streamlit is utilized to develop a user-friendly graphical interface that enables seamless communication with the chatbot. Through Streamlit's intuitive design and interactive elements, users can initiate conversations, input queries, and receive responses in real time.
 
+***How To Run:*** 
+1. Run Fast API  : ```Bash Fast_API.sh```
+
+2. Run Streamlit : ```Bash Streamlit_API.sh```
+
+3. Python Connection API : '''API_Connection_StoryPoint_2024_02_18.ipynb```
 ### Chatbot Agent Integration with Rasa
 
 Rasa, an open-source conversational AI platform, is integrated into the chatbot architecture to facilitate natural language understanding and dialogue management. By leveraging Rasa's machine learning capabilities and pre-built components, the chatbot agent can interpret user intents, extract entities, and generate contextually relevant responses.
