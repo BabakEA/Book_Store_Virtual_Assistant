@@ -34,7 +34,7 @@ Streamlit is utilized to develop a user-friendly graphical interface that enable
 
 2. Run Streamlit : ```Bash Streamlit_API.sh```
 
-3. Python Connection API : '''API_Connection_StoryPoint_2024_02_18.ipynb```
+3. Python Connection API : ```API_Connection_StoryPoint_2024_02_18.ipynb```
 ### Chatbot Agent Integration with Rasa
 
 Rasa, an open-source conversational AI platform, is integrated into the chatbot architecture to facilitate natural language understanding and dialogue management. By leveraging Rasa's machine learning capabilities and pre-built components, the chatbot agent can interpret user intents, extract entities, and generate contextually relevant responses.
