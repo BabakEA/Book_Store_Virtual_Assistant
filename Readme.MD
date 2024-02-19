@@ -5,6 +5,9 @@
 
 Welcome to the Book Store Chatbot Prototype repository! This project aims to enhance user experience in the realm of online bookstores by leveraging advanced technologies and a vast dataset to offer personalized book recommendations, detailed book information, and seamless interaction for users.
 
+- [Presentation slides](Read_Me/Virtual_Assistant_Babak_EA.pptx)
+
+
 ## Overview
 
 The Book Store Chatbot Prototype utilizes a combination of cutting-edge technologies and data management techniques:
